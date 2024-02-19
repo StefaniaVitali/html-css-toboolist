@@ -1,3 +1,5 @@
+
+/* reset rules */
 *{
     margin:0;
 }
@@ -9,4 +11,28 @@ a{
 
 ul,ol,menu{
     list-style: none;
+}
+
+/* fine reset rules */
+
+/* main style */
+.main-content{
+    background-color:#F6F8F9;
+}
+.main-content h1 {
+    display: none;
+}
+/* fine main style */
+
+/* style header */
+
+.main-content{
+    padding: 50px;
+}
+
+.container{
+    max-width: 50%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    margin-top: 20px;
 }
