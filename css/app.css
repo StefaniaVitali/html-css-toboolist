@@ -1,0 +1,12 @@
+*{
+    margin:0;
+}
+
+a{
+    text-decoration: none;
+    color:current-color;
+}
+
+ul,ol,menu{
+    list-style: none;
+}
