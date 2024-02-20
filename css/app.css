@@ -15,24 +15,48 @@ ul,ol,menu{
 
 /* fine reset rules */
 
+
+
 /* main style */
 .main-content{
     background-color:#F6F8F9;
+    padding: 50px;
 }
 .main-content h1 {
     display: none;
 }
 /* fine main style */
 
-/* style header */
-
-.main-content{
-    padding: 50px;
-}
 
 .container{
     max-width: 50%;
     margin: 0 auto;
     background-color: #FFFFFF;
     margin-top: 20px;
+    border-radius: 10px;
 }
+
+/* action section */
+
+.action{
+    padding: 13px 50px ;
+    border-bottom: 1px #F6F8F9 solid;
+}
+
+.action button{
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.button-task{
+    background-color: #14aaf5;
+    font-weight: bold;
+    border: 1px #14aaf5 solid;
+}
+
+.button-section{
+    background-color: white;
+    border: 1px gray solid;
+}
+
+/* fine action section */
