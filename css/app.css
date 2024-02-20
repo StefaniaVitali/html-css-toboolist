@@ -117,10 +117,13 @@ ul,ol,menu{
  }
 
  span.editorial-tag{
-    border: 1px red solid;
-    background-color: white;
-    border-radius: 50%;
+    background-color: #09a9ed;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
     margin-right: 5px;
+    color:white;
+    font-size: 10px;
     text-align: center;
     line-height: 20px;
 
