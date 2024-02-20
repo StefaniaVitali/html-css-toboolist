@@ -129,4 +129,69 @@ ul,ol,menu{
 
  }
 
+ span.qgoals-tag{
+    background-color: #ab5de6;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
+    margin-right: 5px;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+
+ }
+
+ span.recruiting-tag{
+    background-color: #2cc6ab;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
+    margin-right: 5px;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+
+ }
+
+ span.mobile-tag{
+    background-color: #ff9b00;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
+    margin-right: 5px;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+
+ }
+
+ span.website-tag{
+    background-color: #ec4a9d;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
+    margin-right: 5px;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+
+ }
+
+ span.sales-tag{
+    background-color: #a3d116;
+    width: 55px;
+    height: 20px;
+    border-radius:35%;
+    margin-right: 5px;
+    color:white;
+    font-size: 10px;
+    text-align: center;
+    line-height: 20px;
+
+ }
+
 /* todolist part end */
