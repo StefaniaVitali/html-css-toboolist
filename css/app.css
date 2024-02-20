@@ -60,3 +60,28 @@ ul,ol,menu{
 }
 
 /* fine action section */
+
+/* todolist part */
+.todolist{
+    padding: 40px 15px;
+}
+.todolist li{
+    margin-bottom: 10px;
+}
+.task-section>li{
+    font-weight: bold;
+    font-size: 20px;
+}
+ .task-list{
+    font-weight: 100;
+    font-size: 16px;
+ }
+ .task-list-element{
+    margin-left:5px;
+ }
+
+ .task-list-element span, p{
+    display:inline;
+ }
+
+/* todolist part end */
